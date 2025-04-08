@@ -6,8 +6,10 @@ public class Add {
         int a = 5;
         int b = 6;
         int sum = a + b;
+        int sub=a-b;
 
         // Display the result
-        System.out.println("The sum of " + a + " and " + b + " is " + sum);
+        System.out.println("The sum of " + sum);
+        System.out.println("The sub of " + sub);
     }
 }
